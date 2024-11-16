@@ -24,8 +24,8 @@ const daniel = {
 <ul class="tools">
   <li> vs code </li>
   <li> git </li>
-  <li> gitHub </li>
-  <li> pyCharm </li>
+  <li> github </li>
+  <li> pycharm </li>
 </ul>
 <ul class="education">
   <li> major: computer science </li>
