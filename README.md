@@ -20,13 +20,13 @@ const daniel = {
   <li> html </li>
   <li> css </li>
 </ul>
-<h2 id="school"> university of colorado denver </h2>
 <ul class="tools">
   <li> vs code </li>
   <li> git </li>
   <li> github </li>
   <li> pycharm </li>
 </ul>
+<h2 id="school"> university of colorado denver </h2>
 <ul class="education">
   <li> major: computer science </li>
   <li> minor: information systems </li>
