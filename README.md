@@ -13,27 +13,23 @@ const daniel = {
 
 ``` HTML
 <h1 id="name"> daniel </h1>
-
-    <ul class="code">
-      <li> javascript </li>
-      <li> c++ </li>
-      <li> python </li>
-      <li> html </li>
-      <li> css </li>
-    </ul>
-
-    <h2 id="school"> university of colorado denver </h2>
-
-    <ul class="tools">
-      <li> vs code </li>
-      <li> git </li>
-      <li> gitHub </li>
-      <li> pyCharm </li>
-    </ul>
-
-    <ul class="education">
-      <li> major: computer science </li>
-      <li> minor: information systems </li>
-    </ul>
+<ul class="code">
+  <li> javascript </li>
+  <li> c++ </li>
+  <li> python </li>
+  <li> html </li>
+  <li> css </li>
+</ul>
+<h2 id="school"> university of colorado denver </h2>
+<ul class="tools">
+  <li> vs code </li>
+  <li> git </li>
+  <li> gitHub </li>
+  <li> pyCharm </li>
+</ul>
+<ul class="education">
+  <li> major: computer science </li>
+  <li> minor: information systems </li>
+</ul>
 
 ```
