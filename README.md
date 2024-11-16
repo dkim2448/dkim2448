@@ -12,26 +12,28 @@ const daniel = {
 -->
 
 ``` HTML
-<h1 id="name">Daniel</h1>
+<h1 id="name"> daniel </h1>
+
     <ul class="code">
-      <li>JavaScript</li>
-      <li>C++</li>
-      <li>Python</li>
-      <li>HTML</li>
-      <li>CSS</li>
+      <li> javascript </li>
+      <li> c++ </li>
+      <li> python </li>
+      <li> html </li>
+      <li> css </li>
     </ul>
-    <h2 id="school">University of Colorado Denver</h2>
+
+    <h2 id="school"> university of colorado denver </h2>
+
     <ul class="tools">
-      <li>VS Code</li>
-      <li>Visual Studio</li>
-      <li>Git</li>
-      <li>GitHub</li>
-      <li>PyCharm</li>
+      <li> vs code </li>
+      <li> git </li>
+      <li> gitHub </li>
+      <li> pyCharm </li>
     </ul>
+
     <ul class="education">
-      <li>Major: Computer Science</li>
-      <li>Minor: Information Systems</li>
+      <li> major: computer science </li>
+      <li> minor: information systems </li>
     </ul>
-  </div>
 
 ```
