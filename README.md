@@ -24,7 +24,7 @@ const daniel = {
   <li>vs code</li>
   <li>git</li>
   <li>github</li>
-  <lipycharm</li>
+  <li>pycharm</li>
 </ul>
 <h2 id="school">university of colorado denver</h2>
 <ul class="education">
