@@ -12,24 +12,24 @@ const daniel = {
 -->
 
 ``` HTML
-<h1 id="name"> daniel </h1>
+<h1 id="name">daniel</h1>
 <ul class="code">
-  <li> javascript </li>
-  <li> c++ </li>
-  <li> python </li>
-  <li> html </li>
-  <li> css </li>
+  <li>javascript</li>
+  <li>c++</li>
+  <li>python</li>
+  <li>html</li>
+  <li>css</li>
 </ul>
 <ul class="tools">
-  <li> vs code </li>
-  <li> git </li>
-  <li> github </li>
-  <li> pycharm </li>
+  <li>vs code</li>
+  <li>git</li>
+  <li>github</li>
+  <li pycharm</li>
 </ul>
-<h2 id="school"> university of colorado denver </h2>
+<h2 id="school">university of colorado denver</h2>
 <ul class="education">
-  <li> major: computer science </li>
-  <li> minor: information systems </li>
+  <li>major: computer science</li>
+  <li>minor: information systems</li>
 </ul>
 
 ```
