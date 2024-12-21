@@ -1,4 +1,4 @@
-<!-- ``` javascript
+``` javascript
 const daniel = {
   code: ["javascript", "C++", "python", "html", "css"],
   school: ["university of colorado denver"],
@@ -9,8 +9,8 @@ const daniel = {
   }
 };
 ```
--->
 
+<!--
 ``` HTML
 <h1 id="name">daniel</h1>
 <ul class="code">
@@ -33,3 +33,4 @@ const daniel = {
 </ul>
 
 ```
+-->
