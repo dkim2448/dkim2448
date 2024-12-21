@@ -1,8 +1,8 @@
 ``` javascript
 const daniel = {
-  code: ["javascript", "C++", "python", "html", "css"],
+  code: ["javascript", "C++", "python", "html", "css", "java"],
   school: ["university of colorado denver"],
-  tools: ["vs code", "visual studio", "git", "github", "pycharm"],
+  tools: ["vs code", "visual studio", "git", "github", "tableau"],
   education: {
     major: "computer science",
     minor: "information systems"
