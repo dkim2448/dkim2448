@@ -1,5 +1,3 @@
-## hi, i'm daniel
-
 ```bash
 ~ $ whoami
 daniel, cs student @ cu denver
